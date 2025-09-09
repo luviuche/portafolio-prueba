@@ -13,5 +13,3 @@
 ## Hecho por:
 
 ###Luis Viuche
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
